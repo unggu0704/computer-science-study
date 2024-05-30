@@ -3,6 +3,7 @@
 
 ## [Computer Network](https://github.com/UNGGU0704/computer-science-study/tree/main/Computer%20Networking)
 - [OSI 7Layer](https://github.com/UNGGU0704/computer-science-study/blob/main/Computer%20Networking/OSI%207%20Layers.md) <br>
+- [TCP & UDP](https://github.com/unggu0704/computer-science-study/blob/main/Computer%20Networking/UDP%20%26%20TCP.md) <br>
 - [HandShake](https://github.com/UNGGU0704/computer-science-study/blob/main/Computer%20Networking/Handshake.md) <br>
 - [DNS & ARP](https://github.com/UNGGU0704/computer-science-study/blob/main/Computer%20Networking/DNS%20%26%20ARP.md) <br>
 - [HTTP & HTTPS](https://github.com/UNGGU0704/computer-science-study/blob/main/Computer%20Networking/HTTP%20%26%20HTTPS.md) <br>
